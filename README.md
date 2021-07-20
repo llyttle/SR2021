@@ -1,4 +1,4 @@
-# Summer Research 2021 Code
+# Eciton Robotica Summer Research 2021
 
 Includes code for arduino and raspberry pi object detection.
 
